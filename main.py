@@ -1,2 +1,4 @@
-print("hello how are you")
-print("antras pakeitimas")
+from gui import main
+
+if __name__ == "__main__":
+    main()
